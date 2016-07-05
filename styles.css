@@ -58,7 +58,7 @@ body{
 
 .about p{
   max-width: 900px;
-  display: inline-block;
+  margin: 20px auto;
 }
 
 h3 {
